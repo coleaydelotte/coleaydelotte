@@ -5,4 +5,4 @@
 
 - ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cole-aydelotte-386665223/)
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: cole.aydelotte@gmail.com
