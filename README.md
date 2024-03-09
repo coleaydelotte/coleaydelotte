@@ -3,7 +3,7 @@
 
 <ul>
     <li>Currently working torwads my Bacheolers of Sience in Computer Science at Moravian University.</li>
-    <li>Languages: </li>
+    <li>Languages</li>
 </ul>
 
 ## Top Languages
@@ -21,6 +21,9 @@
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 
 <br>
+
+## Activity in the last 30 days
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cole-aydelotte)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cole-aydelotte-386665223/)
