@@ -23,9 +23,9 @@
 <br>
 
 ## Activity in the last 30 days
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cole-aydelotte)](https://github.com/cole-aydelotte/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coleaydelotte&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+<>
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cole-aydelotte-386665223/)
