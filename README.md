@@ -1,6 +1,7 @@
 # Hi I'm Cole Aydelotte 
 <ul>
-    <li>📖 Currently working torwads my Bacheolers of Sience in Computer Science at Moravian University.</li>
+    <li>📝Working torwads my Bacheolers of Sience in Computer Science at Moravian University.</li>
+    <li>📖Currently A Software Engineering Fellow at Headstarter AI</li>
 </ul>
 
 ## Top Languages
