@@ -2,7 +2,7 @@
 <ul>
     <li>📝Working torwads my Bacheolers of Sience in Computer Science at Moravian University.</li>
     <li>💼Currently A Software Engineering Fellow at Headstarter AI.</li>
-    <li>📖Learning Rust, and modern front-end web development.
+    <li>📖Learning how to use Rust and react to make a desktop applicaton using Tauri.
 </ul>
 
 ## Top Languages
