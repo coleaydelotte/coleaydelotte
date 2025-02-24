@@ -2,7 +2,7 @@
 <ul>
     <li>📝Working torwads my Bacheolers of Sience in Computer Science at Moravian University.</li>
     <li>💼Former Software Engineering Fellow at Headstarter AI.</li>
-    <li>📖Learning how to use Rust and react to make a desktop applicaton using Tauri.
+    <li>📖Learning how to use Rust and react to make a desktop applicaton using Tauri, and Neural-Networks with Tensorflow.
 </ul>
 
 ## Top Languages
