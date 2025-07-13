@@ -1,8 +1,8 @@
 # Hi I'm Cole Aydelotte 
 <ul>
-    <li>📝Working torwads my Bacheolers of Sience in Computer Science at Moravian University.</li>
+    <li>📝College Senior, working towards my Bachelors of Science in Computer Science at Moravian University.</li>
     <li>💼Former Software Engineering Fellow at Headstarter AI.</li>
-    <li>📖Learning how to use Rust and react to make a desktop applicaton using Tauri, and Neural-Networks with Tensorflow.
+    <li>📖Learning how to use Rust and react to make a desktop application using Tauri, and Neural-Networks with Tensorflow.
 </ul>
 
 ## Top Languages
